@@ -18,7 +18,7 @@ A creative designer with 6+ years of experience working on multiple different pr
 
 #### 📫 How to reach me:
 
-Email: joonatan.kytonen@gmail.com
+- Email: joonatan.kytonen@gmail.com
 
 -----
 #### MY LINKS!
@@ -32,18 +32,3 @@ Email: joonatan.kytonen@gmail.com
 
 ##### ⚡ Fun fact, I'm also learning math and physics, because I want one day to get degree in engineering!
 
-
-<!--
-**John-Corn/John-Corn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
