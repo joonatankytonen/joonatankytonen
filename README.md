@@ -18,7 +18,7 @@ A creative designer with 6+ years of experience working on multiple different pr
 
 #### 📫 How to reach me:
 
-- Email: joonatan.kytonen@gmail.com
+- Email: contact@joonatankytonen.com
 
 -----
 #### MY LINKS!
