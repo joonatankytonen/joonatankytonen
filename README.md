@@ -1,6 +1,6 @@
 ## Hi! I'm Joonatan Kytönen!
 
-A creative designer with 6+ years of experience working on multiple different projects including game development, web development and video production.
+A creative designer with experience working on multiple different projects including game development, web development, and video production. Always want to challenge myself to learn something new, and better my understanding of technology, programming, visual knowledge, and storytelling.
 
 😄 Pronouns: He/They.
 
