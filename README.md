@@ -25,7 +25,7 @@ Pronouns: He/They.
 #### MY LINKS!
 
 - Instagram: https://www.instagram.com/joonatankytonen/
-- Youtube: https://www.youtube.com/@johncorn_
+- Youtube: https://www.youtube.com/@joonatankytonen
 - Itchio: https://tunnevisio.itch.io/
 - LinkedIn: https://www.linkedin.com/in/joonatankyt%C3%B6nen/
 
