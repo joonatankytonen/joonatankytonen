@@ -18,7 +18,7 @@ Pronouns: He/They.
 
 #### 📫 How to reach me:
 
-- Email: joonatan.kytonen@gmail.com
+- Email: contact@joonatankytonen.com
 
 -----
 
