@@ -10,7 +10,7 @@ Pronouns: He/They.
 
 #### 🔭 I’m currently studying Bachelor of engineering, Information Technology at Seinäjoki University of Applied Sciences
 
-#### 🌱 Learning game development, web development and UI design!
+#### 🌱 Learning game development, backend and math.
 
       - Game engine of choice is Godot engine at the time
 
