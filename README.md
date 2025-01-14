@@ -9,17 +9,6 @@ Pronouns: He/They.
 -------
 
 #### 🔭 I’m currently studying Bachelor of engineering, Information Technology at Seinäjoki University of Applied Sciences
-
-#### 🌱 Learning game development, backend and math.
-
-      - Game engine of choice is Godot engine at the time
-
-------
-
-#### 📫 How to reach me:
-
-- Email: contact@joonatankytonen.com
-
 -----
 
 #### MY LINKS!
@@ -28,6 +17,4 @@ Pronouns: He/They.
 - Youtube: https://www.youtube.com/@joonatankytonen
 - Itchio: https://tunnevisio.itch.io/
 - LinkedIn: https://www.linkedin.com/in/joonatankyt%C3%B6nen/
-
------
 
